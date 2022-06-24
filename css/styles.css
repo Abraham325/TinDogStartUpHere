@@ -26,9 +26,7 @@ p{
   color: #808080;
 }
 
-#features{
-  margin: 7% 15%;
-}
+
 
 #title {
   background-color: #ff4c68;
@@ -65,12 +63,20 @@ p{
 /* Title images */
 
 .title-image{
-  width: 60%;
+  width: 55%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 
 
 /* Feature Section */
+
+#features{
+  margin: 0 15%;
+  background-color: #fff;
+  position: relative;
+}
 
 .feature-box{
   text-align: center;

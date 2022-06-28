@@ -142,3 +142,33 @@ p{
     transform: rotate(0);
   }
 }
+
+/*  CTA Section  */
+
+#CTA{
+  background-color: #f35d73;
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.CTA-text{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Footer Section */
+#footer{
+  height: 300px;
+  text-align: center;
+  padding-top: 150px;
+  font-size: small;
+}
+
+.fa-brands{
+  padding: 0 10px;
+}
+
+.fa-solid{
+  padding: 0 10px;
+}
